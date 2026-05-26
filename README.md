@@ -34,10 +34,10 @@ Tailored application gateways designed to deliver specific utility to diverse gl
 
 ## 🗺️ Roadmap & Ecosystem Governance
 
-* **DAO Launch Coming Soon**: The official governance framework and communication channels for DAO-Stablecoin-Argus will be launched in the near future.
-* **Ecosystem Access (Membership NFT)**: To maintain community high-quality alignment and prevent sybil attacks or indiscriminate entry, a low-cost Membership NFT will be utilized as an official entry pass to the DAO channels and advanced telemetry tools.
+* **DAO Launch on Discord**: The official governance framework, headquarters, and communication channels for DAO-Stablecoin-Argus will be officially established and built on **Discord** in the near future.
+* **Ecosystem Access (Membership NFT)**: To maintain high-quality community alignment and prevent sybil attacks or indiscriminate entry, a low-cost Membership NFT will be utilized as an official entry pass to our dedicated Discord governance channels and advanced telemetry tools.
 * **Philosophical Foundation**: The theoretical framework and historical parallels undergirding this project—connecting the medieval purge of the Knights Templar to modern sovereign defaults and stablecoin runs—are detailed in our official Substack. 
-  * Read the full essay here: [Noah & AI Partners: The Fall of the Templars—From Bank Run to Coin Run](https://open.substack.com/pub/noahblueshieldlog/p/noah-and-ai-partners-the-fall-of?utm_source=share&utm_medium=android&r=7ihy28)
+  * Read the full essay here (Opens in a new window): <a href="https://open.substack.com/pub/noahblueshieldlog/p/noah-and-ai-partners-the-fall-of?utm_source=share&utm_medium=android&r=7ihy28" target="_blank">Noah & AI Partners: The Fall of the Templars—From Bank Run to Coin Run</a>
 
 ---
 
@@ -59,5 +59,5 @@ python shield_alerts.py
 ## 🤝 Contributions
 DAO-Stablecoin-Argus operates under strict decentralized principles. Community members can actively participate in extending the system's capabilities:
  1. **Code Enhancements**: Propose custom risk weight algorithms by inheriting classes inside risk_engine.py or expanding data endpoints in vault_collector.py.
- 2. **Pull Requests**: Submit your optimized modules. Major upgrades are subject to governance voting within the official DAO channels post-launch.
+ 2. **Pull Requests**: Submit your optimized modules. Major upgrades are subject to governance voting within the official Discord channels post-launch.
 *Disclaimer: This project adheres to strict ethical data principles and financial neutrality guidelines to maintain unbiased consumer advocacy.*
