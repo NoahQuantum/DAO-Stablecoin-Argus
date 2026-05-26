@@ -37,7 +37,8 @@ Tailored application gateways designed to deliver specific utility to diverse gl
 * **DAO Launch on Discord**: The official governance framework, headquarters, and communication channels for DAO-Stablecoin-Argus will be officially established and built on **Discord** in the near future.
 * **Ecosystem Access (Membership NFT)**: To maintain high-quality community alignment and prevent sybil attacks or indiscriminate entry, a low-cost Membership NFT will be utilized as an official entry pass to our dedicated Discord governance channels and advanced telemetry tools.
 * **Philosophical Foundation**: The theoretical framework and historical parallels undergirding this project—connecting the medieval purge of the Knights Templar to modern sovereign defaults and stablecoin runs—are detailed in our official Substack. 
-  * Read the full essay here (Opens in a new window): <a href="https://open.substack.com/pub/noahblueshieldlog/p/noah-and-ai-partners-the-fall-of?utm_source=share&utm_medium=android&r=7ihy28" target="_blank">Noah & AI Partners: The Fall of the Templars—From Bank Run to Coin Run</a>
+* Read the full essay here (**Tip: Ctrl+Click or Cmd+Click to open in a new tab without leaving GitHub**): 
+    [Noah & AI Partners: The Fall of the Templars—From Bank Run to Coin Run](https://open.substack.com/pub/noahblueshieldlog/p/noah-and-ai-partners-the-fall-of?utm_source=share&utm_medium=android&r=7ihy28)
 
 ---
 
