@@ -62,3 +62,10 @@ DAO-Stablecoin-Argus operates under strict decentralized principles. Community m
  1. **Code Enhancements**: Propose custom risk weight algorithms by inheriting classes inside risk_engine.py or expanding data endpoints in vault_collector.py.
  2. **Pull Requests**: Submit your optimized modules. Major upgrades are subject to governance voting within the official Discord channels post-launch.
 *Disclaimer: This project adheres to strict ethical data principles and financial neutrality guidelines to maintain unbiased consumer advocacy.*
+
+ ---
+## 🛡️ Join the Noah_Bridge DAO Headquarters
+We welcome investigative journalists, macroeconomic researchers, and citizens. 
+Connect with our Sentinel Network and receive real-time Argus alerts:
+
+👉 **[Join our Discord Server](https://discord.gg/bWzCs4YxwX)**
