@@ -76,5 +76,5 @@ class ShieldOrchestrator:
 if __name__ == '__main__':
     # Diagnostic test run
     # Developers can paste their Discord Webhook URL here to test live integrations
-    orchestrator = ShieldOrchestrator(discord_webhook_url="")
+    orchestrator = ShieldOrchestrator(discord_webhook_url="https://discord.com/api/webhooks/1511058366846337045/z3cA53LAWIpI4X3JCXv8eRh1thDtBkwEY3esozyhILiUbzUJsY4ucS39BzCPTFKqmv_B")
     orchestrator.run_telemetry_loop()
